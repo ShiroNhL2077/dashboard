@@ -49,7 +49,7 @@ h1 {
 }
 
 .member {
-  max-width: 50%;
+  width: 50%;
   display: flex;
   flex-direction: column;
   align-items: center;
